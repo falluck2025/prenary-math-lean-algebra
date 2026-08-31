@@ -1,7 +1,7 @@
 # 偏元数学代数与数论 · Lean 4 形式化验证
 # Prenary Algebra & Number Theory · Formal Verification in Lean 4
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209138.svg)](https://doi.org/10.5281/zenodo.22209138)
 
 > **声明**：本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
